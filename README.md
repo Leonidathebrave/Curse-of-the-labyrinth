@@ -1,4 +1,4 @@
-# Curse-of-the-labyrinth
+# Curse-of-the-labyrinth [MAURO WAS HERE]
 CURSE OF THE LABYRINTH
 Alessandro Cione, Paola Pisanu, Leonardo Rossi.
 One page: 
