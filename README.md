@@ -1,5 +1,6 @@
 # Curse-of-the-labyrinth
-CURSE OF THE LABYRINTH  
+CURSE OF THE LABYRINTH
+Alessandro Cione, Paola Pisanu, Leonardo Rossi.
 One page: 
 
 INTRODUZIONE:
